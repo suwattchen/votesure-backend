@@ -1,0 +1,8 @@
+{
+  "name": "votesure-backend",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@upstash/redis": "1.25.2"
+  }
+}
